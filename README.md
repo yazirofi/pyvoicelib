@@ -1,3 +1,5 @@
+---
+
 <div style="
   width:200px; 
   height:100px; 
@@ -6,12 +8,12 @@
   justify-content:center; 
   align-items:center; 
   margin:auto; 
-  position:absolute; 
+  position:relative; 
   top:0; 
   bottom:0; 
   left:0; 
-  right:0; 
-  border-radius:10px; 
+  right:0;
+  border-radius:10px;
   box-shadow:0 4px 8px rgba(0,0,0,0.2);
 ">
   <img src="https://raw.githubusercontent.com/yazirofi/cdn/main/yazirofi.jpg" 
