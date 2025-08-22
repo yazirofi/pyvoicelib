@@ -6,7 +6,6 @@
   justify-content:center; 
   align-items:center; 
   margin:auto; 
-  position:relative; 
   top:0; 
   bottom:0; 
   left:0; 
